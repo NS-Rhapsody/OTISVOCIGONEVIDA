@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.2.1.75",
+    "IDEVersion": "2023.8.0.98",
   },
   "resources": [
     {"id":{"name":"spr_alavanca_baixo","path":"sprites/spr_alavanca_baixo/spr_alavanca_baixo.yy",},},
@@ -81,6 +81,7 @@
     {"roomId":{"name":"rm_explicacao_intermitente","path":"rooms/rm_explicacao_intermitente/rm_explicacao_intermitente.yy",},},
     {"roomId":{"name":"rm_quiz_intermitente","path":"rooms/rm_quiz_intermitente/rm_quiz_intermitente.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],

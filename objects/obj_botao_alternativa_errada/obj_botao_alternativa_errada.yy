@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_botao_alternativa",
-    "path": "sprites/spr_botao_alternativa/spr_botao_alternativa.yy",
+    "name": "spr_botao_alternativa_errada",
+    "path": "sprites/spr_botao_alternativa_errada/spr_botao_alternativa_errada.yy",
   },
   "spriteMaskId": null,
   "visible": true,

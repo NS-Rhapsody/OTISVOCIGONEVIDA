@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-room_goto(1)
-
+if (global.desbloqueios >= 4) {
+	room_goto(4)
+}

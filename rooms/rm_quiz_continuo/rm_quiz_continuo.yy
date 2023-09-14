@@ -8,19 +8,11 @@
   "inheritLayers": false,
   "instanceCreationOrder": [
     {"name":"inst_4F56DC05","path":"rooms/rm_quiz_continuo/rm_quiz_continuo.yy",},
-    {"name":"inst_73E37AC4","path":"rooms/rm_quiz_continuo/rm_quiz_continuo.yy",},
-    {"name":"inst_12D617DE","path":"rooms/rm_quiz_continuo/rm_quiz_continuo.yy",},
-    {"name":"inst_2F6F6704","path":"rooms/rm_quiz_continuo/rm_quiz_continuo.yy",},
-    {"name":"inst_3FEDB4F4","path":"rooms/rm_quiz_continuo/rm_quiz_continuo.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4F56DC05","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_controller_quiz","path":"objects/obj_controller_quiz/obj_controller_quiz.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_73E37AC4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_botao_alternativa_correta","path":"objects/obj_botao_alternativa_correta/obj_botao_alternativa_correta.yy",},"properties":[],"rotation":0.0,"scaleX":3.0,"scaleY":2.5,"x":320.0,"y":384.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_12D617DE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_botao_alternativa_errada","path":"objects/obj_botao_alternativa_errada/obj_botao_alternativa_errada.yy",},"properties":[],"rotation":0.0,"scaleX":3.5,"scaleY":2.5,"x":640.0,"y":384.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2F6F6704","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_botao_alternativa_errada","path":"objects/obj_botao_alternativa_errada/obj_botao_alternativa_errada.yy",},"properties":[],"rotation":0.0,"scaleX":3.0,"scaleY":2.5,"x":320.0,"y":544.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3FEDB4F4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_botao_alternativa_errada","path":"objects/obj_botao_alternativa_errada/obj_botao_alternativa_errada.yy",},"properties":[],"rotation":0.0,"scaleX":4.0,"scaleY":2.0,"x":608.0,"y":576.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
@@ -37,10 +29,10 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "roomSettings": {
-    "Height": 768,
+    "Height": 1080,
     "inheritRoomSettings": false,
     "persistent": false,
-    "Width": 1366,
+    "Width": 1920,
   },
   "sequenceId": null,
   "views": [

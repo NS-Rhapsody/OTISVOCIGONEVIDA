@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_botao_avanca",
-  "bbox_bottom": 41,
+  "bbox_bottom": 241,
   "bbox_left": 0,
-  "bbox_right": 63,
-  "bbox_top": 27,
+  "bbox_right": 241,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"983739fe-0e00-4c4f-8b03-18228dc9a543",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6eb55b64-bb15-41f4-b22a-cd0ebd5d7bb8",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 64,
+  "height": 242,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"caf78860-d468-4376-84e0-9d160f4acfac","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c6371219-9f1f-4196-b9f3-22cb69a77053","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"983739fe-0e00-4c4f-8b03-18228dc9a543","path":"sprites/spr_botao_avanca/spr_botao_avanca.yy",},},},"Disabled":false,"id":"cdc2afb8-b6b6-4713-99bd-a41722d16d62","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6eb55b64-bb15-41f4-b22a-cd0ebd5d7bb8","path":"sprites/spr_botao_avanca/spr_botao_avanca.yy",},},},"Disabled":false,"id":"c7a1125e-be11-40f2-887d-1b29f3179a00","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 64,
+  "width": 242,
 }

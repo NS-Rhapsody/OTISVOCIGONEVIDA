@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_botao",
-  "bbox_bottom": 47,
-  "bbox_left": 17,
-  "bbox_right": 47,
-  "bbox_top": 17,
+  "bbox_bottom": 241,
+  "bbox_left": 0,
+  "bbox_right": 241,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"72393020-072f-4e18-a90d-58901563d228",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"77925900-8692-4152-9039-7694558d0882",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 64,
+  "height": 242,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b7453d3b-8b54-4af2-b095-440a9dbf48c9","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c7fc9399-161f-4c0a-b692-ba1cc51b836b","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"72393020-072f-4e18-a90d-58901563d228","path":"sprites/spr_botao/spr_botao.yy",},},},"Disabled":false,"id":"67bd3804-45af-4932-bf3b-a690448fee7d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"77925900-8692-4152-9039-7694558d0882","path":"sprites/spr_botao/spr_botao.yy",},},},"Disabled":false,"id":"bbbfac13-21d1-4785-98f7-76cc94b45193","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 64,
+  "width": 242,
 }

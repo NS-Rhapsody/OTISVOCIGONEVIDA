@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_botao_volta",
-  "bbox_bottom": 241,
+  "bbox_bottom": 1079,
   "bbox_left": 0,
-  "bbox_right": 241,
+  "bbox_right": 1079,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bbe0d74d-0423-4d6a-a0df-21c6b72ad733",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0cb22a48-ea6d-4acd-86e5-316e60af16eb",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 242,
+  "height": 1080,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"499afebf-13a8-4472-9964-f552e4ebd31e","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d19f7e64-3962-412d-8d46-b91c018df335","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"bbe0d74d-0423-4d6a-a0df-21c6b72ad733","path":"sprites/spr_botao_volta/spr_botao_volta.yy",},},},"Disabled":false,"id":"be9c8ac1-c460-4699-addd-2071ceda6abc","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"0cb22a48-ea6d-4acd-86e5-316e60af16eb","path":"sprites/spr_botao_volta/spr_botao_volta.yy",},},},"Disabled":false,"id":"0a723139-4bb5-48fb-a687-f5b349288f7d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 242,
+  "width": 1080,
 }

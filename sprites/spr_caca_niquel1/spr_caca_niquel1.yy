@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_caca_niquel1",
-  "bbox_bottom": 241,
-  "bbox_left": 42,
-  "bbox_right": 241,
-  "bbox_top": 1,
+  "bbox_bottom": 1803,
+  "bbox_left": 10,
+  "bbox_right": 1091,
+  "bbox_top": 19,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a1df2332-1777-424d-a975-c92c0f3dbdea",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6b7baebb-c00f-4c3e-b275-fa5a06b46c68",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 242,
+  "height": 1823,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"294d7381-e57f-493e-ac0b-e0ebe4726d12","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"bf1a2e64-f677-498c-96e8-f173d2918b04","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a1df2332-1777-424d-a975-c92c0f3dbdea","path":"sprites/spr_caca_niquel1/spr_caca_niquel1.yy",},},},"Disabled":false,"id":"0ef99f90-2028-480a-b64a-dc3cd515c3ec","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6b7baebb-c00f-4c3e-b275-fa5a06b46c68","path":"sprites/spr_caca_niquel1/spr_caca_niquel1.yy",},},},"Disabled":false,"id":"3f326f2e-f540-4ec9-acdb-c3445c3b485c","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 242,
+  "width": 1147,
 }

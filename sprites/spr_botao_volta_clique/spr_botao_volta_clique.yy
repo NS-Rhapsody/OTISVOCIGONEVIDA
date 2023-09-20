@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_botao_volta_clique",
-  "bbox_bottom": 241,
+  "bbox_bottom": 1079,
   "bbox_left": 0,
-  "bbox_right": 241,
+  "bbox_right": 1079,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"83d69666-81e5-4afe-b574-95ba8b0f1d37",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"46c3b47d-bd5b-4ba2-b484-057acaabe08d",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 242,
+  "height": 1080,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"912218b8-e30e-4549-bc4c-3b012471a64c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5cf17e7e-2372-4dd3-934f-8564881974a0","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"83d69666-81e5-4afe-b574-95ba8b0f1d37","path":"sprites/spr_botao_volta_clique/spr_botao_volta_clique.yy",},},},"Disabled":false,"id":"1fb5244b-4f3c-43a7-a873-16160f5592d4","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"46c3b47d-bd5b-4ba2-b484-057acaabe08d","path":"sprites/spr_botao_volta_clique/spr_botao_volta_clique.yy",},},},"Disabled":false,"id":"1792e564-ea72-45e9-aa10-040a4e082f22","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 242,
+  "width": 1080,
 }

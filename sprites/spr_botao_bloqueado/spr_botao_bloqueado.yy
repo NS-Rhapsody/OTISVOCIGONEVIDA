@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_botao_bloqueado",
-  "bbox_bottom": 241,
+  "bbox_bottom": 1079,
   "bbox_left": 0,
-  "bbox_right": 241,
+  "bbox_right": 1079,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0853f1e6-c75e-413e-a78c-5efe4e3bbb51",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"24ab8011-2abe-4cbe-92ff-ad03c6598228",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 242,
+  "height": 1080,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"888a576e-93be-479d-825c-c9e19a409a41","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5f340f3b-64b5-4732-8134-c7e11a92c231","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"0853f1e6-c75e-413e-a78c-5efe4e3bbb51","path":"sprites/spr_botao_bloqueado/spr_botao_bloqueado.yy",},},},"Disabled":false,"id":"1d8e7210-a182-43f6-8fd1-11f540dbd7d6","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"24ab8011-2abe-4cbe-92ff-ad03c6598228","path":"sprites/spr_botao_bloqueado/spr_botao_bloqueado.yy",},},},"Disabled":false,"id":"f9a16f06-bae1-4f59-97f2-522784885343","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 242,
+  "width": 1080,
 }

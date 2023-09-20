@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_botao_proxima_pergunta",
-  "bbox_bottom": 51,
-  "bbox_left": 0,
-  "bbox_right": 63,
-  "bbox_top": 13,
+  "bbox_bottom": 258,
+  "bbox_left": 16,
+  "bbox_right": 712,
+  "bbox_top": 11,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5fcd6bfc-bad2-4d2d-9c68-d58632aa786c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"54be1fe6-5443-4dcd-bf63-609d3e4a2d3a",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 64,
+  "height": 263,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"6e7fa001-7827-4cae-bc45-9d14a0cdcf26","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"532df386-ab94-487d-be29-12084d782011","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5fcd6bfc-bad2-4d2d-9c68-d58632aa786c","path":"sprites/spr_botao_proxima_pergunta/spr_botao_proxima_pergunta.yy",},},},"Disabled":false,"id":"05856ef3-d1d8-4538-8581-e189e648ee78","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"54be1fe6-5443-4dcd-bf63-609d3e4a2d3a","path":"sprites/spr_botao_proxima_pergunta/spr_botao_proxima_pergunta.yy",},},},"Disabled":false,"id":"2177b84f-a692-483f-a59c-77493fc129d1","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 64,
+  "width": 741,
 }

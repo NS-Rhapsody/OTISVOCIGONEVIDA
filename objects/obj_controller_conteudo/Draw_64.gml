@@ -8,7 +8,7 @@ if (room == rm_explicacao_continuo) {
 		draw_text(200, 200, "Texto explicacao reforco continuo 2")
 	}
 	if (global.quadro == 3) {
-		draw_text(200, 200, "Momento exemplo")
+		draw_text(200, 200, "Pontos: " + string(global.pontos))
 	}
 	if (global.quadro == 4) {
 		draw_text(200, 200, "Texto explicacao reforco continuo 4")

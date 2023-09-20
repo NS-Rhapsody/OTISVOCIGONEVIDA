@@ -5,7 +5,17 @@ global.passouQuiz = 0
 global.acertouUltima = 0
 show_debug_message(global.quadro)
 global.pontos = 0
-instance_create_layer(200, 200, "Instances", obj_botao_alternativa_correta)
-instance_create_layer(200, 400, "Instances", obj_botao_alternativa_errada)
-instance_create_layer(400, 200, "Instances", obj_botao_alternativa_errada)
-instance_create_layer(400, 400, "Instances", obj_botao_alternativa_errada)
+if (room == rm_quiz_continuo) {
+	instance_create_layer(500, 380, "Instances", obj_botao_alternativa_errada)
+	instance_create_layer(500, 400, "Instances", obj_botao_alternativa_correta)
+	instance_create_layer(500, 420, "Instances", obj_botao_alternativa_errada)
+	instance_create_layer(500, 440, "Instances", obj_botao_alternativa_errada)
+	instance_create_layer(500, 460, "Instances", obj_botao_alternativa_errada)
+}
+if (room == rm_quiz_intermitente) {
+	instance_create_layer(500, 380, "Instances", obj_botao_alternativa_errada)
+	instance_create_layer(500, 400, "Instances", obj_botao_alternativa_correta)
+	instance_create_layer(500, 420, "Instances", obj_botao_alternativa_errada)
+	instance_create_layer(500, 440, "Instances", obj_botao_alternativa_errada)
+	instance_create_layer(500, 460, "Instances", obj_botao_alternativa_errada)
+}

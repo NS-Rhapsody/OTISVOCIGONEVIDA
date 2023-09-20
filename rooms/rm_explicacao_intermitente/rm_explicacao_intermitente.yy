@@ -15,8 +15,8 @@
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_74A38601_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_controller_conteudo","path":"objects/obj_controller_conteudo/obj_controller_conteudo.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_73FE71FD_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_botao_avanca","path":"objects/obj_botao_avanca/obj_botao_avanca.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1216.0,"y":768.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_47B2A06A_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_botao_volta","path":"objects/obj_botao_volta/obj_botao_volta.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":416.0,"y":768.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_73FE71FD_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_botao_avanca","path":"objects/obj_botao_avanca/obj_botao_avanca.yy",},"properties":[],"rotation":0.0,"scaleX":0.1,"scaleY":0.1,"x":1184.0,"y":704.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_47B2A06A_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_botao_volta","path":"objects/obj_botao_volta/obj_botao_volta.yy",},"properties":[],"rotation":0.0,"scaleX":0.1,"scaleY":0.1,"x":320.0,"y":704.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
@@ -33,10 +33,10 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "roomSettings": {
-    "Height": 1080,
+    "Height": 900,
     "inheritRoomSettings": false,
     "persistent": false,
-    "Width": 1920,
+    "Width": 1600,
   },
   "sequenceId": null,
   "views": [
